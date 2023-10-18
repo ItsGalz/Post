@@ -23,25 +23,25 @@ public class Videojuegos {
         
         
         User user = new User ();
-        user.setName("francisco javier soto carrazco");
-        user.setEmail("javier@gmail.com");
-        user.setNumber("63213124124"); 
-        user.setPassword("javier123");
+        user.setName("Gael viveros");
+        user.setEmail("Galz@gmail.com");
+        user.setNumber("6221052648"); 
+        user.setPassword("galz768");
         
         Comments comments = new Comments ();
-        comments.setComment("Concuerdo contigo");
+        comments.setComment("agg @handeiims987");
         comments.setDislike(10);
         comments.setLike(16);
         comments.setWords(17);
         
          Post post = new Post ();
-         post.setAutor("@javierSoto");
+         post.setAutor("@Galz");
          post.setCategory(Category.COMIC);
          post.setComments(99);
-         post.setDate("12/09/21");
-         post.setDescripcion("Me gusta los tacos");
-         post.setDislike(99);
-         post.setLike(99);
+         post.setDate("10/09/23");
+         post.setDescripcion("Mi rampage en LOL");
+         post.setDislike(7);
+         post.setLike(60);
          post.setPhoto("");
          post.setAnswer("7");
          
